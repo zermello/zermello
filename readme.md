@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=10000&center=true&vCenter=true&width=600&color=00FF99&lines=$+sudo+build+--Mellon+--with+@Cognoscente" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=10000&center=true&vCenter=true&width=600&color=00FF99&lines=$+sudo+build+--mellon+--with+@cognoscente" />
 </p>
 
 <!-- <div align="center">

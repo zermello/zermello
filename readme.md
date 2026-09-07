@@ -9,6 +9,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=10000&center=true&vCenter=true&width=600&color=00FF99&lines=$+sudo+build+--mellon+--with+@cognoscente" />
 </p>
 
+<p align="center"> 
+<img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange">
+<img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css&logoColor=green">
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=orange">
+<img src="https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow">
+<!-- <img src="https://img.shields.io/badge/jupyter-20232A?style=for-the-badge&logo=jupyterlab&logoColor=orange"> -->
+
+
 <!-- <div align="center">
 
 𝙻𝚘𝚊𝚍𝚒𝚗𝚐 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢.𝚎𝚡𝚎 𝚠𝚒𝚝𝚑 𝚎𝚗𝚍𝚕𝚎𝚜𝚜 𝚕𝚒𝚗𝚎𝚜 𝚘𝚏 𝚌𝚘𝚍𝚎.<br>

@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=orange">
 <img src="https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow">
-<!-- <img src="https://img.shields.io/badge/jupyter-20232A?style=for-the-badge&logo=jupyterlab&logoColor=orange"> --> -->
+<img src="https://img.shields.io/badge/jupyter-20232A?style=for-the-badge&logo=jupyterlab&logoColor=orange"> -->
 
 
 <!-- <div align="center">

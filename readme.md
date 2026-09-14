@@ -1,6 +1,6 @@
 <!-- 🚀 Profile Banner -->
 <p align="center">
-  <img src="banner.gif" width="70%" />
+  <img src="error.gif" width="70%" />
 </p>
 
 <br>

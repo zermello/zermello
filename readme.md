@@ -1,9 +1,9 @@
 <!-- 🚀 Profile Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="error2.gif" width="70%" />
 </p>
 
-<br>
+<br> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900000000&center=true&vCenter=true&width=600&color=A78BFA&lines=$+sudo+build+--mellon+--with+@cognoscente" />

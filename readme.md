@@ -5,9 +5,9 @@
 
 <br> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=99999999999999999999999999999999999999999999999&center=true&vCenter=true&width=600&color=F13E93&lines=$+sudo+build+--mellon+--with+@cognoscente" />
-</p>
+</p> -->
 
 <!-- <p align="center"> 
 <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange">
